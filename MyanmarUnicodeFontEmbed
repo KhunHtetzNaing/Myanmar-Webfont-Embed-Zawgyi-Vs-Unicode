@@ -1,0 +1,11 @@
+@font-face {
+font-family: ‘Myanmar3’;
+src: url(‘http://bit.ly/mm3-otf’); /* IE9 Compat Modes */
+src: url(‘http://bit.ly/mm3-otf?#iefix’) format(‘embedded-opentype’), /* IE6-IE8 */
+url(‘http://bit.ly/mm3-woff’) format(‘woff’), /* Modern Browsers */
+url(‘http://bit.ly/mm3-ttf’) format(‘truetype’), /* Safari, Android, iOS */
+url(‘http://bit.ly/mm3-svg#UndercoverRegular’) format(‘svg’); /* Legacy iOS */
+font-weight: normal;
+font-style: normal;
+}
+body,html,p,code,*,table,td,tr,span,div,a,ul,li,input,textarea{font-family:'Myanmar3'!important;}
