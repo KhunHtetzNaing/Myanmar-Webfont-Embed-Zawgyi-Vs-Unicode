@@ -1,2 +1,2 @@
-# Myanmar-Webfont-Embed-Zawgyi-Vs-Unicode
-Font Embed For Zawgyi and Myanmar Unicode
+# Myanmar-Webfont-Embed-Zawgyi-and-Unicode
+Working All Web Browser!!!
