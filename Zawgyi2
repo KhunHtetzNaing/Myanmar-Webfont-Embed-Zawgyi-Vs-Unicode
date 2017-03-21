@@ -1,0 +1,6 @@
+@font-face {
+font-family:'Zawgyi-One';
+src:local('Zawgyi-One'), url('https://mmwebfonts.comquas.com/fonts/zawgyi.woff') format('woff'),
+url('https://mmwebfonts.comquas.com/fonts/zawgyi.ttf') format('ttf');
+}
+html, body,header h1#recent1 .label_title, strong, #recent2 .label_title, a,div,p ,post-body-snippet,title,widget-content{font-family:'Zawgyi-One'!important;}
